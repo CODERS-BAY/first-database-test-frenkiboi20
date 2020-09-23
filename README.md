@@ -5,9 +5,8 @@ Wähle ein sinnvolles Beispiel!<br>
 In einer Filiale arbeiten 1 bis n Mitarbeiter. Ein Mitarbeiter arbeitet in einer Filiale.<br>
 Mitarbeiter (1,1) -- arbeitet -- (1,n) Filiale(n)<br>
 Mitarbeiter n -- arbeitet in -- 1 Filiale<br>
-(siehe Grafik: Aufgabe1.png)<br>
 ![GitHub Logo](/Aufgabe1.png)
-Format: ![Alt Text](url) 
+
 
 ## Aufgabe 2
 Kann eine Beziehung Attribute haben?<br>
@@ -42,7 +41,7 @@ Welche Arten von Beziehungen gibt es? Zeichne für jede ein Beispiel auf<br>
 1:N - Beziehung: 1 Kunde ordert n Bestellungen - n Bestellungen werden von 1 Kunden geordert<br>
 1:1 - Beziehung: Zu 1 Fahrzeug gehört 1 Kennzeichen - 1 Kennzeichen gehört zu einem Fahrzeug<br>
 M:N - Beziehung: n Magazine enthalten m Artikel - m Artikel werden von n Magazinen beinhaltet<br>
-(siehe Grafik: Aufgabe8.png)
+![GitHub Logo](/Aufgabe8.png)
 
 ## Aufgabe 9
 Was bedeutet der Begriff Kardinalität und welche Kardinalitäten gibt es?<br>
@@ -74,11 +73,11 @@ Alle für Benutzer relevanten Informationen sind ausschließlich durch Datenwert
 Wie löst man eine M:N Beziehung auf? Erstelle ein Beispiel<br>
 Mit einer assoziativen Tabelle<br>
 m:n wird zu m:1 und 1:n<br>
-(siehe Grafik: Aufgabe14.png)
+![GitHub Logo](/Aufgabe14.png)
 
 ## Aufgabe 15
 Ein Handelsbetrieb verkauft ein Sortiment von Artikeln, die er von verschiedenen Herstellern bezieht. Der Handelsbetrieb hat einen bestimmten Kundenkreis, der regelmäßig Bestellungen aufgibt. Eine Bestellung kann mehrere Artikel umfassen. Ein Artikel kann von mehreren Lieferanten bezogen werden und ein Lieferant liefert natürlich meist mehr als einen Artikel. Erstelle ein ERD und ein Relationenmodell, welches der 3. Normalform entspricht.<br>
-(siehe Grafik: Aufgabe15.png)
+![GitHub Logo](/Aufgabe15.png)
 
 ## Aufgabe 16
 Welche Anomalien kennst du und was beschreiben sie?<br>
