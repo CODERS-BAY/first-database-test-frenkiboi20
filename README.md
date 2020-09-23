@@ -6,8 +6,7 @@ In einer Filiale arbeiten 1 bis n Mitarbeiter. Ein Mitarbeiter arbeitet in einer
 Mitarbeiter (1,1) -- arbeitet -- (1,n) Filiale(n)<br>
 Mitarbeiter n -- arbeitet in -- 1 Filiale<br>
 (siehe Grafik: Aufgabe1.png)<br>
-![GitHub](C:\Users\codersbay\Desktop\Aufgabe1.png)
-Format: ![Alt Text](url) 
+![Alternate image text](C://Users//codersbay//Desktop//Aufgabe1.png)
 
 ## Aufgabe 2
 Kann eine Beziehung Attribute haben?<br>
